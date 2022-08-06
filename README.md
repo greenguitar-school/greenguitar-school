@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**greenguitar-school/greenguitar-school** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salut les élèves et bienvenue sur mon compte github ! 
 
-Here are some ideas to get you started:
+Celui-ci va me permettre de gérer les différentes versions du contenu additionnel que je vous propose.
+Vous pourrez ainsi télécharger facilement la dernière version mise à jour du contenu. Cela facilitera notamment
+les corrections éventuelles... :smirk:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pour celles ou ceux qui débutent ou ne sont pas très à l'aise avec les outils informatiques, je vous guiderai
+pas à pas en vous redirigeant vers le dépôt concerné à l'aide d'un lien direct de téléchargement.
+Pour les plus habiles en informatique je vous laisse vous débrouiller, vous savez déjà comment faire ! :green_heart:
+
+Bonne musique et bonne guitare ! :musical_score: :guitar: :headphones: :musical_note: :notes:
+
