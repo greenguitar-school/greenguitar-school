@@ -1,4 +1,4 @@
-### Hello 👋
+# Hello :four_leaf_clover:
 
 Salut les élèves et bienvenue sur mon compte github ! 
 
